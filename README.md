@@ -1,1 +1,1 @@
-# postgres-kafka-connect-postgresql
+# postgres-kafka-connect-postgres
